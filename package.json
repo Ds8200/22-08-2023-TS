@@ -1,0 +1,15 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "main": "ex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch ./ex.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescipt": "^1.0.0"
+  }
+}
